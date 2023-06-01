@@ -1,0 +1,23 @@
+# Topics
+
+- JavaScript
+  - Language Features
+    - Data Structures
+    - Operators
+    - TypeScript
+  - Browser
+  - Node
+- Test
+  - Unit
+  - E2E
+  - Regression
+- Paradigms
+  - Functional
+  - Object Oriented
+- Principles
+  - Design
+  - Architectural
+- Patterns
+  - Object Oriented
+  - Functional
+  - Architectural
