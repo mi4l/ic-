@@ -112,10 +112,9 @@ This is a bit more in-depth but these topics are easy to find information about 
 - Promise
 - try/catch
 - How to make requests/get responses
-- How HTTP works
 
 ### Experience with Node.js
-Node's powerful.  You can make all sorts of stuff with this from scripts to servers to native apps and much more.  You'll basically won't to be able to:
+Node's powerful.  You can make all sorts of stuff with this from scripts to servers to native apps and much more.  You'll basically want to be able to:
 
 - Make a simple express.js server
 - Use build tools
