@@ -1,3 +1,7 @@
+[[⇦ Home]](../../README.md)
+[[⇦ JavaScript]](../README.md)
+____
+
 # Statements
 > In computer programming, a statement is a syntactic unit of an imperative programming language that expresses some action to be carried out. A program written in such a language is formed by a sequence of one or more statements. A statement may have internal components (e.g. expressions).
 
@@ -165,7 +169,12 @@ try {
 [`try`/`catch`: MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)
 
 # Variable Declarations
+## `const`
 
+## `let`
+
+## `var`
+The `var` statement declares a function-scoped or globally-scoped variable, optionally initializing it to a value.
 
 # Functions
 
