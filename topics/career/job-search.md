@@ -1,3 +1,7 @@
+[[⇦ Home]](../README.md)
+[[⇦ Careers]](./README.md)
+____
+
 # Job Searching as a Software Engineer
 I'm hoping this document can provide some insight into what bootcamp grads should focus on as well others who may be looking for a job in software engineering who already have a little experience.  In my opinion, it comes in 3 parts: 1) self-branding, 2) proof of skill, and 3) interview prep. 
 
