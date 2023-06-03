@@ -5,6 +5,9 @@
     - Data Structures
     - Operators
     - TypeScript
+    - Async
+    - Real Time
+  - Libraries
   - Browser
   - Node
 - Test
@@ -21,3 +24,10 @@
   - Object Oriented
   - Functional
   - Architectural
+- DevOps
+  - Containerization
+  - Frontend
+    - Build tooling
+    - Deployment
+  - CI/CD
+- Career Guide
